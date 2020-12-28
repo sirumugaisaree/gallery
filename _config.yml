@@ -3,10 +3,10 @@
 #############################
 
 # The title that appears on the tab
-title: Sirumugai Saree's Gallery
+title: The Sirumugai Saree's Gallery
 
 # The title on the web page
-full_name: Sirumugai Saree
+full_name: The Sirumugai Saree
 
 # The type of layout
 # Options: ROWS, SQUARES, COLUMNS
@@ -28,7 +28,7 @@ columns: 3
 max_height: 400
 
 # Handle
-instagram: sirumugaisaree
+instagram: thesirumugaisaree
 
 ######################
 # END OF CONFIG CODE #
@@ -36,13 +36,13 @@ instagram: sirumugaisaree
 ######################
 #
 # Name of your gallery (this will show up at the top of your page and in the RSS feed)
-name: Sirumugai Saree's Gallery
+name: The Sirumugai Saree's Gallery
 
 # Short description (goes below the title; it will also be used in the RSS feed)
 description: New collections for Pongal - Sankaranti - Bihu - Lohri - Maghi festive season!
 
 # Your name, as you want it to appear underneath each post and in the footer
-author: Sirumugai Saree
+author: The Sirumugai Saree
 
 # Your email if you want it to be linked on the contact page
 author_email: sirumugaisaree@gmail.com
