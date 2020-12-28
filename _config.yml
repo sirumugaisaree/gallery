@@ -19,10 +19,10 @@ layout_style: ROWS
 spacing: 10
 
 # Boolean(true|false): Shuffle the photos in the album
-shuffle: false
+shuffle: true
 
 # Integer: Number of columns for square or columns
-columns: 4
+columns: 3
 
 # Integer: Max height for rows
 max_height: 400
@@ -36,7 +36,7 @@ instagram: sirumugaisaree
 ######################
 #
 # Name of your gallery (this will show up at the top of your page and in the RSS feed)
-name: Gallery
+name: Sirumugai Saree's Gallery
 
 # Short description (goes below the title; it will also be used in the RSS feed)
 description: New collections for Pongal - Sankaranti - Bihu - Lohri - Maghi festive season!
