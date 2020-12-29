@@ -8,6 +8,22 @@ body {
   width: 90%;
 }
 
+#content {
+  margin: 0 auto;
+  max-width: 1000px; 
+}
+#left {
+    float:left;
+    width: 50%;
+}
+#right {
+    float:right;
+    width: 50%;
+}
+
+
+
+
 .header {
   margin-top: 124px;
   margin-bottom: 32px;
